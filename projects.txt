@@ -4,3 +4,4 @@ In the repository create a new file by clicking in the box on the right.
 Name the working file with the format this one is txt format you can have many formats (find out what all are available)
 Commit is like saving the file
 To make changes here click on the file and on the pencil symbol to make changes and thenat the bottom of this page click commit changes.
+To view history click on history box 
